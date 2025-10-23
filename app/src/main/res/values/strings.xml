@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Funny Combination</string>
+
+    <string name="main_play">Play</string>
+    <string name="main_score">High Score</string>
+    <string name="main_privacy">Privacy Policy</string>
+    <string name="main_exit">Exit</string>
+    <string name="main_game_over">Game Over</string>
+
+    <string name="result_result">Result: level %d</string>
+    <string name="result_new_score">New High Score!</string>
+    <string name="result_not_new_score">Better luck next time!</string>
+    <string name="result_button_menu">Main menu</string>
+    <string name="result_button_game">Play again</string>
+
+    <string name="high_score_header">High Score</string>
+    <string name="high_score_button_main_menu">Main Menu</string>
+    <string name="high_score_score">Score</string>
+    <string name="high_score_date">Date</string>
+
+    <string name="privacy_header">Privacy Policy</string>
+    <string name="privacy_button_main_menu">Main Menu</string>
+    <string name="privacy_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ac augue sit amet justo ullamcorper aliquet ullamcorper eu magna. Proin interdum, ligula ut sollicitudin vehicula, metus magna tincidunt lacus, et sollicitudin sem purus sed tortor. Etiam consequat tristique rutrum. Sed sit amet odio ut ligula elementum eleifend a id magna. Proin non turpis et erat sagittis hendrerit a ac massa. Aenean lobortis tellus a rhoncus tincidunt. Fusce sollicitudin accumsan quam. Cras tempor facilisis mauris, vel facilisis augue cursus id. Nunc tempus a lectus at ultrices. Donec augue eros, facilisis at neque ac, varius interdum nunc. Vestibulum ultricies dictum tellus. Suspendisse eu risus neque.
+
+Phasellus pretium diam magna, sed volutpat est interdum sed. Nunc maximus metus leo, at gravida dui consectetur nec. Donec malesuada erat ac semper lacinia. Suspendisse non felis non massa commodo ullamcorper vel at diam. Nam quis sodales risus. Nullam nec tincidunt leo. In justo risus, hendrerit ut sapien nec, molestie porttitor felis. Vestibulum dapibus libero ut nulla sagittis, a vulputate eros tincidunt. Ut a enim bibendum, faucibus magna a, condimentum enim.
+
+Nam accumsan felis id lacus porttitor tempus. Duis at consequat orci. Maecenas eu consectetur dolor. Phasellus orci enim, elementum ut turpis hendrerit, tempus suscipit nulla. Aenean at ullamcorper enim. Fusce in pellentesque justo. Donec eget diam et dui congue cursus. Nulla iaculis tellus turpis, at blandit justo facilisis eu. Nam augue sapien, mattis in maximus ut, aliquam sit amet dui. Suspendisse leo magna, viverra in quam non, bibendum malesuada lacus. In tristique dictum mi at pharetra. Donec imperdiet imperdiet dui et eleifend. Maecenas cursus lobortis nibh, eget facilisis massa ultrices id. Nulla facilisi. Fusce sit amet purus id leo fermentum facilisis. Pellentesque sed malesuada felis.
+
+Nunc nec nunc facilisis, ullamcorper risus eget, porttitor neque. In placerat egestas mi non suscipit. Aenean non malesuada diam. Suspendisse fermentum lorem et odio commodo blandit. Etiam orci dolor, efficitur nec massa in, pulvinar scelerisque turpis. Curabitur augue turpis, dictum at massa a, fringilla vulputate risus. Phasellus gravida scelerisque rutrum. Maecenas vehicula turpis vel laoreet viverra. Nullam dictum tincidunt urna in interdum. Nulla imperdiet dui massa, elementum imperdiet arcu consectetur quis.
+
+Curabitur sodales nisl quis nisi sollicitudin rhoncus. Suspendisse potenti. Sed sit amet sem cursus, pharetra enim eget, lobortis tortor. Nam vitae elit et erat laoreet finibus nec ac justo. Quisque arcu eros, porta ac turpis vitae, lobortis facilisis erat. Morbi quam justo, volutpat at tincidunt in, suscipit vitae est. Donec ac tellus sit amet erat iaculis placerat. Sed lorem metus, pharetra egestas lobortis at, semper a urna. Ut at est sollicitudin, tempus mauris vulputate, consectetur nisi. Nam eget massa ac purus tempus tempus.</string>
+</resources>
